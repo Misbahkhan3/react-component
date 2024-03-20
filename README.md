@@ -3,17 +3,17 @@
 This repository contains a versatile and reusable module for creating a sophisticated data dashboard component using React.js. The component is designed to display various types of data diagrams, including Pie Chart, Stacked Horizontal Bar Chart, and Tree Map. It allows for visualizing asset distribution between equity and cash & equivalents, fund distribution for mutual funds, and top sectors for asset distribution.
 
 ## Features
-- **Chart Types**: Implements Pie Chart, Stacked Horizontal Bar Chart, and Tree Map to visualize different aspects of financial data.
-- **Customization**: Provides customization options for each chart type to enhance the user experience.
-- **Interactivity**: Supports hover effects and tooltips for better data exploration.
-- **Reusability**: Ensures clean, modular, and well-commented code for easy maintenance and extension.
+- Implements Pie Chart, Stacked Horizontal Bar Chart, and Tree Map to visualize different aspects of financial data.
+- Provides customization options for each chart type to enhance the user experience.
+- Supports interactivity features such as hover effects and tooltips for better data exploration.
+- Ensures reusability and follows best practices for clean, modular, and well-commented code for easy maintenance and extension.
 
 ## Installation
 To integrate this component into your React.js project, follow these steps:
 
 1. In the project directory, run:
     ```
-    npm install react-data-dashboard-component
+    npm install 
     ```
 
 2. Once installed, you can import and use the component in your React application.
@@ -30,4 +30,3 @@ In the project directory, you can run:
 - **Asset Distribution Description**: Visualize the distribution of assets between equity and cash & equivalents.
 - **Mutual Fund Distribution Description**: Display the distribution of earnings for mutual funds among individual investors or unit holders.
 - **Sector Analysis Description**: Focus on analyzing the top sectors for asset distribution within the equity and cash & equivalents categories.
-
